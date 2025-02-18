@@ -9,7 +9,8 @@
 <h3 align="center">✨ AI Visionary | AI Expert & Developer | Rocket Team Captain 🚀</h3>
 
 ## 👨‍💻 About Me
-- 🎓 Istinye University - Management And Information System Major (AI Minor)
+- 🎓 Istinye University - Management And Information System Major
+- 🎓 Istinye University - Artificial Intelligence Minor
 - 🔬 Humboldt-Universität zu Berlin - Rocket Team, International Projects Department
 - 💼 Full Stack Artificial Intelligence Developer @Curiosity Technology
 - 🏆 European Union Best For Mobility 1st Place Award Winner
@@ -18,6 +19,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
+
 ### 🤖 AI/ML & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -72,14 +74,36 @@
 
 ## 📊 My GitHub Stats
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=efeyeniyol&show_icons=true&count_private=true&hide_border=true&title_color=7134F7&icon_color=7134F7&text_color=c9d1d9&bg_color=0d1117" alt="Efe Yeniyol github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efeyeniyol&layout=compact&hide_border=true&title_color=7134F7&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=efe-yeniyol&show_icons=true&count_private=true&hide_border=true&title_color=7134F7&icon_color=7134F7&text_color=c9d1d9&bg_color=0d1117" alt="Efe Yeniyol github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=efe-yeniyol&layout=compact&hide_border=true&title_color=7134F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/efeyeniyol)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efeyeniyoll)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/p8e5jdbpk1me2hudourxzq07s)
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efe-yeniyol&theme=radical&hide_border=true&background=0D1117&stroke=7134F7&fire=7134F7&currStreakNum=7134F7&ring=7134F7&currStreakLabel=7134F7&sideNums=7134F7&sideLabels=FFFFFF" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  <a href="https://linkedin.com/in/efeyeniyol" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://instagram.com/efeyeniyoll" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  
+  <a href="https://open.spotify.com/user/p8e5jdbpk1me2hudourxzq07s" target="_blank">
+    <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify"/>
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7134F7&height=120&section=footer"/>
