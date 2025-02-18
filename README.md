@@ -72,17 +72,6 @@
 - 🌟 Expert in Python, Computer Vision, OpenCV, Object Detection, Face Recognition, GANs
 - 🚀 Artificial Intelligence Summit Speaker
 
-## 📊 My GitHub Stats
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=efe-yeniyol&show_icons=true&count_private=true&hide_border=true&title_color=7134F7&icon_color=7134F7&text_color=c9d1d9&bg_color=0d1117" alt="Efe Yeniyol github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=efe-yeniyol&layout=compact&hide_border=true&title_color=7134F7&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efe-yeniyol&theme=radical&hide_border=true&background=0D1117&stroke=7134F7&fire=7134F7&currStreakNum=7134F7&ring=7134F7&currStreakLabel=7134F7&sideNums=7134F7&sideLabels=FFFFFF" />
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -99,12 +88,4 @@
     <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify"/>
   </a>
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7134F7&height=120&section=footer"/>
 </div>
