@@ -8,6 +8,7 @@
 
 <h3 align="center">✨ AI Visionary | AI Expert & Developer | Rocket Team Captain 🚀</h3>
 
+
 ## 👨‍💻 About Me
 - 🎓 Istinye University - Management And Information System Major
 - 🎓 Istinye University - Artificial Intelligence Minor
@@ -65,6 +66,18 @@
 ![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
+
+## 📚 Latest Publication
+<div align="center">
+  <img src="https://media.giphy.com/media/3o85xGocUH8RYoDKKs/giphy.gif" width="50" alt="Book Animation"/>
+  <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003483571-14/ex-machine-next-machine-still-biased-machine-ceyda-unal-muhammed-taha-zeren-furkan-kaya-havva-demirbas-ogulcan-gunes-kaz%C4%B1m-timucin-utkan-efe-yeniyol-sebnem-ozdemir" target="_blank">
+    <b>"Ex Machine, Next Machine, and Still Biased Machine"</b>
+  </a>
+  <p align="justify">
+    <i>Published in CRC Press (2024) - This research investigates bias in generative AI systems, analyzing 6,002 images generated from 18 prompts. The study reveals inherent biases in AI image generation, comparing Midjourney and DALL-E, and discusses the future of AI ethics and transparency.</i>
+  </p>
+</div>
+
 
 ## 🎯 Certificates and Achievements
 - 🥇 Best For Energy - European Union Delegation to Turkey (2022)
