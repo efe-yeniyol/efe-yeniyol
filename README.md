@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHR3aXkxMHRhbXF5amtxMnN2cm1obWxsNTV6c3BiaTUxeGZxemFqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Animation" />
 </div>
 
 <h3 align="center">✨ AI Visionary | AI Expert & Developer | Rocket Team Captain 🚀</h3>
