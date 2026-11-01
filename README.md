@@ -1,104 +1,176 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=0077B5&center=true&vCenter=true&repeat=false&width=435&lines=Efe+Yeniyol" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=38&pause=1000&color=0077B5&center=true&vCenter=true&repeat=false&width=500&lines=Efe+Yeniyol" alt="Efe Yeniyol" />
 </h1>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHR3aXkxMHRhbXF5amtxMnN2cm1obWxsNTV6c3BiaTUxeGZxemFqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Animation" />
-</div>
+<h3 align="center">AI Product Engineer | AI Developer & Strategist</h3>
 
-<h3 align="center">✨ AI Visionary | AI Expert & Developer | Rocket Team Captain 🚀</h3>
+<p align="center">
+  <a href="https://selam.ai/">
+    <img src="https://img.shields.io/badge/Building-Selam.AI-111111?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Selam.AI" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI-0077B5?style=for-the-badge" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Products-333333?style=for-the-badge" alt="AI Products" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/efeyeniyol">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:efe.yeniyoldev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://selam.ai/">
+    <img src="https://img.shields.io/badge/Website-Selam.AI-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Selam.AI Website" />
+  </a>
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+### [Selam.AI — Real-Time Conversational AI](https://selam.ai/)
+
+Building AI-powered interactive avatar systems for airports, shopping malls, and enterprise environments.
+
+- 🤖 Real-time conversational AI agents and digital avatars
+- 🎙️ Voice interfaces powered by speech-to-text and text-to-speech
+- 🧠 Multilingual LLMs, retrieval-augmented generation, and function calling
+- 🏢 AI kiosk experiences designed for real-world environments
+- ⚙️ Production-oriented AI integration and deployment
 
 ## 👨‍💻 About Me
-- 🎓 Istinye University - Management And Information System Major
-- 🎓 Istinye University - Artificial Intelligence Minor
-- 🔬 Humboldt-Universität zu Berlin - Rocket Team, International Projects Department
-- 💼 Full Stack Artificial Intelligence Developer @Curiosity Technology
-- 🏆 European Union Best For Mobility 1st Place Award Winner
-- 🎯 SEY Foundation Young Entrepreneurs Competition Finalist
 
-## 🛠 Tech Stack
+- 🎓 Management Information Systems — İstinye University
+- 🧠 Artificial Intelligence minor
+- 💼 AI Developer & Strategist at Curiosity Technology
+- 🛠️ Focused on applied AI, conversational systems, and AI product engineering
+- 📱 Building AI-powered consumer applications
+- 📚 Contributor to research on generative AI bias
 
-<div align="center">
+## 🧰 Tech Stack
 
-### 🤖 AI/ML & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+### 🤖 AI, Machine Learning & Generative AI
 
-### 🌐 Web & Mobile Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+</p>
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🎙️ Conversational AI
 
-### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/LiveKit-111111?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0077B5?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/STT%20%2F%20TTS-555555?style=for-the-badge" alt="STT TTS" />
+  <img src="https://img.shields.io/badge/Function%20Calling-444444?style=for-the-badge" alt="Function Calling" />
+</p>
 
-### 🛠 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+### 🌐 Web & Mobile Development
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-### 🧠 LLM & NLP
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
+### ☁️ Infrastructure, DevOps & Data
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+</p>
 
-## 📚 Latest Publication
-<div align="center">
-  <img src="https://media.giphy.com/media/3o85xGocUH8RYoDKKs/giphy.gif" width="50" alt="Book Animation"/>
-  <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003483571-14/ex-machine-next-machine-still-biased-machine-ceyda-unal-muhammed-taha-zeren-furkan-kaya-havva-demirbas-ogulcan-gunes-kaz%C4%B1m-timucin-utkan-efe-yeniyol-sebnem-ozdemir" target="_blank">
-    <b>"Ex Machine, Next Machine, and Still Biased Machine"</b>
+---
+
+## 📱 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📖 Okuoo</h3>
+      <p align="center">
+        <a href="https://apps.apple.com/tr/app/okuoo/id6802262207?l=en">
+          <img src="https://img.shields.io/badge/App%20Store-View%20App-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Okuoo App Store" />
+        </a>
+      </p>
+      <p align="center">AI-powered speed reading, RSVP techniques, interactive exercises, and content generation.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💪 FitLab Pro</h3>
+      <p align="center">
+        <a href="https://apps.apple.com/tr/app/fitlab-pro/id6757519016?l=en">
+          <img src="https://img.shields.io/badge/App%20Store-View%20App-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="FitLab Pro App Store" />
+        </a>
+      </p>
+      <p align="center">AI-powered fitness, personalized workout programs, nutrition planning, and progress tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🤖 Selam.AI</h3>
+      <p align="center">
+        <a href="https://selam.ai/">
+          <img src="https://img.shields.io/badge/Explore-Selam.AI-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Selam.AI" />
+        </a>
+      </p>
+      <p align="center">Real-time conversational AI and interactive avatar experiences for physical environments.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Research & Publications
+
+### Ex Machine, Next Machine, and Still Biased Machine
+
+Research on generative AI bias, AI-generated imagery, algorithmic fairness, and responsible AI development.
+
+<p>
+  <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003483571-14/ex-machine-next-machine-still-biased-machine-ceyda-unal-muhammed-taha-zeren-furkan-kaya-havva-demirbas-ogulcan-gunes-kaz%C4%B1m-timucin-utkan-efe-yeniyol-sebnem-ozdemir">
+    <img src="https://img.shields.io/badge/Taylor%20%26%20Francis-Read%20Publication-00599C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Read Publication" />
   </a>
-  <p align="justify">
-    <i>Published in CRC Press (2024) - This research investigates bias in generative AI systems, analyzing 6,002 images generated from 18 prompts. The study reveals inherent biases in AI image generation, comparing Midjourney and DALL-E, and discusses the future of AI ethics and transparency.</i>
-  </p>
-</div>
+</p>
 
+## 🏆 Awards & Recognition
 
-## 🎯 Certificates and Achievements
-- 🥇 Best For Energy - European Union Delegation to Turkey (2022)
-- 🏆 ISO 27001 Information Security Management System Certificate
-- 🌟 Expert in Python, Computer Vision, OpenCV, Object Detection, Face Recognition, GANs
-- 🚀 Artificial Intelligence Summit Speaker
+- 🥇 European Union Best for Energy — 1st Place
+- 🏆 Teknofest — 1st Place, UAV Project
+- 🔬 CERN / Swiss Awards — Microcontroller-Based Systems Project
+- 🎤 TEDx Speaker
 
-## 📫 Connect With Me
+## 🎓 Education
 
-<div align="center">
-  
-  <a href="https://linkedin.com/in/efeyeniyol" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+**İstinye University**  
+B.Sc. in Management Information Systems · Artificial Intelligence Minor
+
+## 🌍 Languages
+
+- 🇹🇷 Turkish — Native
+- 🇬🇧 English — Full Professional Proficiency
+- 🇪🇸 Spanish / 🇫🇷 French — Limited Working Proficiency
+
+---
+
+<p align="center">
+  <a href="https://selam.ai/">
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-Selam.AI-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore My Work" />
   </a>
-  
-  <a href="https://instagram.com/efeyeniyoll" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  <a href="https://linkedin.com/in/efeyeniyol">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://open.spotify.com/user/p8e5jdbpk1me2hudourxzq07s" target="_blank">
-    <img src="https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify"/>
-  </a>
-
-</div>
+</p>
